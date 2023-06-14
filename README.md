@@ -7,9 +7,20 @@ To replicate our model, please follow these steps:
 ```
 git clone https://github.com/C23-PS006-Capstone/Harvestia-ML.git
 ```
-2. Download the dataset and unzip it in the same location as Harvestia-ML repository
-3. Install the necessary libraries
+2. Install Anaconda for setting up virtual environment
+3. Set the *harvestia* virtual environment
 ```
-pip install -r requirements.txt
+conda create -n harvestia tensorflow=2.10 python=3.10
 ```
-4. 
+```
+conda activate harvestia
+```
+4. Install the necessary libraries
+```
+pip install jupyter notebook
+pip install matplotlib
+pip install split-folders
+pip install scikit-learn
+```
+5. Download the dataset and unzip it in the same location as Harvestia-ML repository
+6. Run the model 
