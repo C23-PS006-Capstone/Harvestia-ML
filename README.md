@@ -7,4 +7,9 @@ To replicate our model, please follow these steps:
 ```
 git clone https://github.com/C23-PS006-Capstone/Harvestia-ML.git
 ```
-2. Download the dataset and unzip it 
+2. Download the dataset and unzip it in the same location as Harvestia-ML repository
+3. Install the necessary libraries
+```
+pip install -r requirements.txt
+```
+4. 
