@@ -22,4 +22,4 @@ pip install matplotlib
 pip install scikit-learn
 ```
 5. Download the dataset and unzip it in the same location as Harvestia-ML repository
-6. Run the *model_V1_2.ipynb*
+6. Run the *model_V1.2.ipynb*
