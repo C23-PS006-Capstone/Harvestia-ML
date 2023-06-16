@@ -23,4 +23,4 @@ pip install split-folders
 pip install scikit-learn
 ```
 5. Download the dataset and unzip it in the same location as Harvestia-ML repository
-6. Run the model 
+6. Run the *model_V1_2.ipynb*
